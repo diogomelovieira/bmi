@@ -1,4 +1,4 @@
-﻿Country,Life expectancy,BMI
+Country,Life expectancy,BMI
 Afghanistan,52.8,20.62058
 Albania,76.8,26.44657
 Algeria,75.5,24.59620
@@ -32,8 +32,8 @@ Chile,78.5,27.01542
 China,73.4,22.92176
 Colombia,76.2,24.94041
 Comoros,67.1,22.06131
-Congo, Dem. Rep.,57.5,19.86692
-Congo, Rep.,58.8,21.87134
+"""Congo, Dem. Rep."",57.5,19.86692"
+"""Congo, Rep."",58.8,21.87134"
 Costa Rica,79.8,26.47897
 Cote d'Ivoire,55.4,22.56469
 Croatia,76.2,26.59629
@@ -85,7 +85,7 @@ Liberia,59.9,21.89537
 Libya,75.6,26.54164
 Lithuania,72.1,26.86102
 Luxembourg,81.0,27.43404
-Macedonia, FYR,74.5,26.34473
+"""Macedonia, FYR"",74.5,26.34473"
 Madagascar,62.2,21.40347
 Malawi,52.4,22.03468
 Malaysia,74.5,24.73069
